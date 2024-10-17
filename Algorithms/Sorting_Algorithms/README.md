@@ -3,7 +3,7 @@
 This repository contains implementations of various sorting algorithms in Java for practice and learning purposes. Each algorithm is implemented in its own class.
 
 ## Algorithms Included
-
+ 
 1. **Merge Sort**
     - Merge Sort is a divide-and-conquer algorithm that splits the array into halves, sorts them, and then merges them back together.
     - **Usage:** Create an instance of `MergeSort` and call the `sort` method with the array you want to sort.
